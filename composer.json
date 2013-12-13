@@ -1,0 +1,15 @@
+{
+    "name": "Aligent/Security",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Security patches for Magento.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Luke Mills",
+            "email":"luke@aligent.com.au"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Aligent_Security>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Aligent_Security>
+    </modules>
+</config>
