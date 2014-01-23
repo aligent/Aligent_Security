@@ -20,6 +20,8 @@ Requirements
 
 Compatibility
 -------------
-- Magento >= 1.4 <= 1.7.0.2
+
+- Magento-CE-v1.6.0.0-1.7.0.2
+
 
 
