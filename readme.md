@@ -1,6 +1,8 @@
 Aligent Security Extension
-=====================
+==========================
+
 Security patches for Magento.
+
 Facts
 -----
 - version: 0.1.0
@@ -9,7 +11,7 @@ Facts
 
 Description
 -----------
-Applies an equivalent to the APPSEC-212 patch (SUPEE-2518) (http://www.magentocommerce.com/index.php/getmagento/ce_patches/PATCH_SUPEE-2518_CE_1.5.1.0-1.7.0.2_v1.sh)
+Applies an equivalent to the APPSEC-212 patch (SUPEE-2677) (http://www.magentocommerce.com/index.php/getmagento/ce_patches/PATCH_SUPEE-2677_EE_1.13.0.2_v2.sh)
 
 Requirements
 ------------
@@ -18,6 +20,8 @@ Requirements
 
 Compatibility
 -------------
-- Magento >= 1.4
+
+- Magento-CE-v1.6.0.0-1.7.0.2
+
 
 
