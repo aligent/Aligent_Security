@@ -5,6 +5,17 @@
             <version>0.1.0</version>
         </Aligent_Security>
     </modules>
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <aligent_security before="Mage_Adminhtml">Aligent_Security_Adminhtml</aligent_security>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
     <global>
         <helpers>
             <cms>

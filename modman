@@ -1,2 +1,3 @@
 src/app/code/community/Aligent/Security     app/code/community/Aligent/Security
+src/app/code/local/Mage/Adminhtml/Block/Dashboard/Graph.php     app/code/local/Mage/Adminhtml/Block/Dashboard/Graph.php
 src/app/etc/modules/*    app/etc/modules/
