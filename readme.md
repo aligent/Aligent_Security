@@ -13,7 +13,9 @@ Applies an equivalent to the APPSEC-212 patch (SUPEE-2518) (http://www.magentoco
 
 Issues
 -----------
-- If you are using NFS for media, this will break wysiwyg thumbnails in admin.You should applied the patch directly.
+- You can encountered issues if you are symlinking the media folder.
+  - Thumbnails in admin can break, because this module uses `realpath` function
+- To resolve the issue apply SUPEE-2518 directly instead of using this module.
 
 Requirements
 ------------
